@@ -1,5 +1,10 @@
+#IntelliJ files
+**/.idea/*
+
 # Compiled class file
+**/target/*
 *.class
+**/mvnw*
 
 # Log file
 *.log
